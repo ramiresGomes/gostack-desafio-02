@@ -18,7 +18,7 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ramiresGomes/gostack-desafio-02?color=%2304D361">
 
   <a href="https://linktr.ee/ramiresggomes">
-    <img alt="Made by Ramires Gomes" src="https://img.shields.io/badge/made%20by-Ramires-Gomes-%2304D361">
+    <img alt="Made by Ramires Gomes" src="https://img.shields.io/badge/Made%20By-Ramires%20Gomes-2304D361">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
